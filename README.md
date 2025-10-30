@@ -6,7 +6,7 @@
 
 **[개인 작품 리스트]**
 - 사과 주식 프로젝트 **(제작중)**
-- Sword Upgrade Project **(제작중)**
+- Sword Upgrade Project [다운로드 하기](https://github.com/Nwb10102/SwordSimulator/releases)
   
 **[팀 작품 리스트]**
 - 성범선배 제자들의 반란 **(제작중)**
