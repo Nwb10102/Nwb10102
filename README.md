@@ -5,6 +5,9 @@
 - 🌱 현재 C#,lua를 배우고 있습니다.
 - [Notion 링크](https://www.notion.so/29e519b86e2380f5819cd56f07f3b8ed?source=copy_link)
 
+<details>
+<summary>작품 리스트</summary>
+
 ### **[개인 작품 리스트]**
 - 사과 주식 프로젝트 **(제작중)**
 - Sword Upgrade Project [다운로드 하기](https://github.com/Nwb10102/SwordSimulator/releases)
@@ -12,6 +15,7 @@
 ### **[팀 작품 리스트]**
 - 성범선배 제자들의 반란 **(제작중)**
 - A Project (Roblox) **(제작중)**
+</details>
 
 
 ## 통계
