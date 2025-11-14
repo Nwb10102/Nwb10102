@@ -17,7 +17,14 @@
 - A Project (Roblox) **(제작중)**
 </details>
 
-
 ## 통계
 ![Nwb10102's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwb10102&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwb10102&layout=donut&theme=github_dark)](https://github.com/nwb10102/github-readme-stats)
+
+## 연락
+Email
+- kimjihoon10102@naver.com
+- Nwb10102@gmail.com
+
+Discord
+- Nwb10102
