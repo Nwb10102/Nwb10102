@@ -2,11 +2,7 @@
 
 # 👋 안녕하세요! @Nwb10102 입니다!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Game+Developer+%F0%9F%8E%AE;Unity+%7C+Roblox+Studio+%7C+C%23;Always+Learning+New+Things+%F0%9F%8C%B1)](https://git.io/typing-svg)
-
 </div>
-
----
 
 ## 🙋 About Me
 
