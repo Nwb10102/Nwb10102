@@ -8,7 +8,7 @@
 
 - 👀 **게임 개발**에 관심이 많은 개발자입니다!
 - 🌱 현재 **C#**, **Lua**를 학습 중입니다.
-- 🎮 Unity & Roblox Studio로 게임을 제작합니다.
+- 🎮 Unity 로 게임을 제작합니다.
 - 📝 [Notion 페이지](https://www.notion.so/29e519b86e2380f5819cd56f07f3b8ed?source=copy_link)
 
 ---
@@ -19,7 +19,6 @@
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-E00612?style=for-the-badge&logo=roblox&logoColor=white)
 
 ### 💻 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
