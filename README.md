@@ -41,14 +41,15 @@
 ### 👤 개인 작품
 | 프로젝트 | 상태 | 설명 |
 |---|---|---|
-| 🍎 사과 주식 프로젝트 | ⚙️ 제작중 | - |
 | ⚔️ [Sword Upgrade Project](https://github.com/Nwb10102/SwordSimulator/releases) | ✅ 배포 | 검 업그레이드 게임 |
+| 🍎 사과 주식 프로젝트 | ✖️ 취소됨 | - |
 
 ### 👥 팀 작품
 | 프로젝트 | 상태 | 설명 |
 |---|---|---|
-| 🏫 성범선배 제자들의 반란 | ⚙️ 제작중 | 팀 프로젝트 |
-| 🕹️ A Project (Roblox) | ⚙️ 제작중 | Roblox 팀 프로젝트 |
+| 🎪 Final Curtain Call | ⚙️ 제작중 | Better Ground 4기 참여작 |
+| 🏫 성범선배 제자들의 반란 | ❔ 지연중 | 팀 프로젝트 |
+| 🕹️ A Project (Roblox) | ✖️ 취소됨 | Roblox 팀 프로젝트 |
 
 </details>
 
