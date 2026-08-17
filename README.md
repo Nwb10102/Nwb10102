@@ -1,14 +1,4 @@
-<div align="center">
-
-# 👋 안녕하세요! @Nwb10102 입니다!
-
-</div>
-
 ## 🙋 About Me
-
-- 👀 **게임 개발**에 관심이 많은 개발자입니다!
-- 🌱 현재 **C#**, **Lua**를 학습 중입니다.
-- 🎮 Unity 로 게임을 제작합니다.
 - 📝 [Notion 페이지](https://www.notion.so/29e519b86e2380f5819cd56f07f3b8ed?source=copy_link)
 
 ---
@@ -32,29 +22,6 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
-
----
-
-## 📂 Projects
-
-<details>
-<summary>🗂️ 작품 리스트 보기</summary>
-
-### 👤 개인 작품
-| 프로젝트 | 상태 | 설명 |
-|---|---|---|
-| ⚔️ [Sword Upgrade Project](https://github.com/Nwb10102/SwordSimulator/releases) | ✅ 배포 | 검 업그레이드 게임 |
-| 🍎 사과 주식 프로젝트 | ✖️ 취소됨 | - |
-
-### 👥 팀 작품
-| 프로젝트 | 상태 | 설명 |
-|---|---|---|
-| 🎪 Final Curtain Call | ⚙️ 제작중 | Better Ground 4기 참여작 |
-| 🏫 성범선배 제자들의 반란 | ❔ 지연중 | 팀 프로젝트 |
-| 🕹️ A Project (Roblox) | ✖️ 취소됨 | Roblox 팀 프로젝트 |
-
-</details>
-
 ---
 
 ## 📊 GitHub Stats
